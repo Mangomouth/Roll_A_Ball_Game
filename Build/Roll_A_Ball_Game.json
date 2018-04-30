@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Roll_A_Ball_Game.data.unityweb",
+"asmCodeUrl": "Roll_A_Ball_Game.asm.code.unityweb",
+"asmMemoryUrl": "Roll_A_Ball_Game.asm.memory.unityweb",
+"asmFrameworkUrl": "Roll_A_Ball_Game.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
